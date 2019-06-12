@@ -1,2 +1,3 @@
 Select CustomerName from Customers where CustomerID=(select max(CustomerID) from Customers);
 Select max(CustomerID) from Customers;
+Select max(CustomerID) from Customers where CustomerID <>(select max(CustomerID) from Customers);//2nd highest CustomerID
