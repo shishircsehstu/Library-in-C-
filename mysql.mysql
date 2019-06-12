@@ -1,1 +1,2 @@
 Select CustomerName from Customers where CustomerID=(select max(CustomerID) from Customers);
+elect max(CustomerID) from Customers;
