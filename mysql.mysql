@@ -4,4 +4,4 @@ Select max(CustomerID) from Customers where CustomerID <>(select max(CustomerID)
 update Customers set CustomerName='Sayeef vai ', Country='Bangladesh' where CustomerID=3;
 SELECT  * from Products order by Price desc;
 SELECT  * from Products order by Price desc limit n-1,1;  //for n'th largest value 
-SELECT  * from Products order by Price  limit n-1,1;//for n'th smallest value 
+SELECT  * from Products order by Price  limit n-1,1;  //for n'th smallest value 
