@@ -1,7 +1,7 @@
 # Library-in-C-
 # math.h
-C++ abs() 	returns absolute value of an argument
-C++ acos() 	Returns Inverse cosine a Number
+1. C++ abs() 	returns absolute value of an argument
+2. C++ acos() 	Returns Inverse cosine a Number
 C++ acosh() 	returns hyperbolic cosine of a number
 C++ asin() 	Returns Inverse Sine a Number
 C++ asinh() 	returns arc hyperbolic sine of a number
