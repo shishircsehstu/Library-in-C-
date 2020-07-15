@@ -17,20 +17,20 @@
 1. C++ exp2() 	Returns 2 raised to a Number
 1. C++ expm1() 	Returns e raised to Power Minus 1
 1. C++ fabs() 	returns absolute value of argument
-C++ fdim() 	Returns Positive Different Between Arguments
-C++ floor() 	Returns floor value of decimal number
-C++ fma() 	Returns Fused Multiply–Accumulate
-C++ fmax() 	returns largest among two arguments passed
-C++ fmin() 	returns smallest among two given arguments
-C++ fmod() 	Computes floating point remainder of division
-C++ frexp() 	breaks float to its binary significand
-C++ hypot() 	Returns Square Root of sum of square of Arguments
-C++ ilogb() 	returns integral part of logarithm of |x|
-C++ ldexp() 	returns product of x and 2 raised to the power e
-C++ llrint() 	Rounds argument using current rounding mode
-C++ llround() 	Rounds argument to nearest long long int value
-C++ log() 	Returns Natural Logarithm of a Number
-C++ log10() 	Returns Base 10 Logarithm of a Number
+1. C++ fdim() 	Returns Positive Different Between Arguments
+1. C++ floor() 	Returns floor value of decimal number
+1. C++ fma() 	Returns Fused Multiply–Accumulate
+1. C++ fmax() 	returns largest among two arguments passed
+1. C++ fmin() 	returns smallest among two given arguments
+1. C++ fmod() 	Computes floating point remainder of division
+1. C++ frexp() 	breaks float to its binary significand
+1. C++ hypot() 	Returns Square Root of sum of square of Arguments
+1. C++ ilogb() 	returns integral part of logarithm of |x|
+1. C++ ldexp() 	returns product of x and 2 raised to the power e
+1. C++ llrint() 	Rounds argument using current rounding mode
+1. C++ llround() 	Rounds argument to nearest long long int value
+1. C++ log() 	Returns Natural Logarithm of a Number
+1. C++ log10() 	Returns Base 10 Logarithm of a Number
 C++ log1p() 	returns natural logarithm of x+1.
 C++ log2() 	returns base2 logarithm of a number
 C++ logb() 	returns logarithm of |x|
@@ -41,10 +41,10 @@ C++ nan() 	returns a quiet NaN value
 C++ nearbyint() 	Rounds argument to using current rounding mode
 C++ nextafter() 	returns next value after x in direction of y
 C++ nexttoward() 	returns next value after x in direction of y
-C++ pow() 	Computes Power a Number
-C++ remainder() 	Returns remainder of x/y
-C++ remquo() 	Computer remainder and stores quotient of x/y
-C++ rint() 	Rounds argument using current rounding mode
+1. C++ pow() 	Computes Power a Number
+1. C++ remainder() 	Returns remainder of x/y
+1. C++ remquo() 	Computer remainder and stores quotient of x/y
+1. C++ rint() 	Rounds argument using current rounding mode
 C++ round() 	Returns integral value nearest to argument
 C++ scalbln() 	Scales x by FLT_RADIX to the power n
 C++ scalbn() 	Scales x by FLT_RADIX to the power n
