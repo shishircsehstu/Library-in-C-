@@ -8,15 +8,15 @@
 6. C++ atan() 	Returns Inverse tangent a Number
 7. C++ atan2() 	Returns Inverse Tangent of a Coordinate
 1. C++ atanh() 	returns arc hyperbolic tangent of a number
-C++ cbrt() 	Computes Cube Root of a Number
-C++ ceil() 	Return ceiling value of number
-C++ copysign() 	returns num with value of first and sign of second
-C++ cos() 	Returns Cosine of the Argument
-C++ cosh() 	Returns Hyperbolic Cosine of an Angle
-C++ exp() 	returns exponential (e) raised to a number
-C++ exp2() 	Returns 2 raised to a Number
-C++ expm1() 	Returns e raised to Power Minus 1
-C++ fabs() 	returns absolute value of argument
+1. C++ cbrt() 	Computes Cube Root of a Number
+1. C++ ceil() 	Return ceiling value of number
+1. C++ copysign() 	returns num with value of first and sign of second
+1. C++ cos() 	Returns Cosine of the Argument
+1. C++ cosh() 	Returns Hyperbolic Cosine of an Angle
+1. C++ exp() 	returns exponential (e) raised to a number
+1. C++ exp2() 	Returns 2 raised to a Number
+1. C++ expm1() 	Returns e raised to Power Minus 1
+1. C++ fabs() 	returns absolute value of argument
 C++ fdim() 	Returns Positive Different Between Arguments
 C++ floor() 	Returns floor value of decimal number
 C++ fma() 	Returns Fused Multiply–Accumulate
@@ -53,4 +53,4 @@ C++ sinh() 	returns hyperbolic sine of an angle
 C++ sqrt() 	Computes Square Root of A Number
 C++ tan() 	Returns Tangent of the Argument
 C++ tanh() 	returns hyperbolic tangent of an angle
-C++ trunc() 	Truncates the demical part of a number 
+1. C++ trunc() 	Truncates the demical part of a number 
