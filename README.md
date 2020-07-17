@@ -31,26 +31,26 @@
 1. C++ llround() 	Rounds argument to nearest long long int value
 1. C++ log() 	Returns Natural Logarithm of a Number
 1. C++ log10() 	Returns Base 10 Logarithm of a Number
-C++ log1p() 	returns natural logarithm of x+1.
-C++ log2() 	returns base2 logarithm of a number
-C++ logb() 	returns logarithm of |x|
-C++ lrint() 	Rounds argument using current rounding mode
-C++ lround() 	Returns the long int value nearest to the argument
-C++ modf() 	Breaks Number Into Integral and Fractional Part
-C++ nan() 	returns a quiet NaN value
-C++ nearbyint() 	Rounds argument to using current rounding mode
-C++ nextafter() 	returns next value after x in direction of y
-C++ nexttoward() 	returns next value after x in direction of y
+1. C++ log1p() 	returns natural logarithm of x+1.
+1. C++ log2() 	returns base2 logarithm of a number
+1. C++ logb() 	returns logarithm of |x|
+1. C++ lrint() 	Rounds argument using current rounding mode
+1. C++ lround() 	Returns the long int value nearest to the argument
+1. C++ modf() 	Breaks Number Into Integral and Fractional Part
+1. C++ nan() 	returns a quiet NaN value
+1. C++ nearbyint() 	Rounds argument to using current rounding mode
+1. C++ nextafter() 	returns next value after x in direction of y
+1. C++ nexttoward() 	returns next value after x in direction of y
 1. C++ pow() 	Computes Power a Number
 1. C++ remainder() 	Returns remainder of x/y
 1. C++ remquo() 	Computer remainder and stores quotient of x/y
 1. C++ rint() 	Rounds argument using current rounding mode
-C++ round() 	Returns integral value nearest to argument
-C++ scalbln() 	Scales x by FLT_RADIX to the power n
-C++ scalbn() 	Scales x by FLT_RADIX to the power n
-C++ sin() 	Returns Sine of the Argument
-C++ sinh() 	returns hyperbolic sine of an angle
-C++ sqrt() 	Computes Square Root of A Number
-C++ tan() 	Returns Tangent of the Argument
-C++ tanh() 	returns hyperbolic tangent of an angle
+1. C++ round() 	Returns integral value nearest to argument
+1. C++ scalbln() 	Scales x by FLT_RADIX to the power n
+1. C++ scalbn() 	Scales x by FLT_RADIX to the power n
+1. C++ sin() 	Returns Sine of the Argument
+1. C++ sinh() 	returns hyperbolic sine of an angle
+1. C++ sqrt() 	Computes Square Root of A Number
+1. C++ tan() 	Returns Tangent of the Argument
+1. C++ tanh() 	returns hyperbolic tangent of an angle
 1. C++ trunc() 	Truncates the demical part of a number 
